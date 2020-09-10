@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/Bct.Common.JSONDlog.ColumnMatcher.Console/obj
+/src/Bct.Common.UniversalDlogLogParser.Console/obj
+/src/Bct.Common.UniversalDlogLogParser/obj
+/src/Output

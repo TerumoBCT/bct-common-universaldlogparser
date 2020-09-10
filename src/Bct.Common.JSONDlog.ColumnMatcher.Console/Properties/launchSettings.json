@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bct.Common.JSONDlog.ColumnMatcher.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--inputDirectory C:\\Dev\\Tests\\DLOG\\Reveos\\ --outputDirectory C:\\Dev\\Tests\\DLOG\\Reveos\\   --overWrite --columnFileName ColumnValues.txt"
+    }
+  }
+}

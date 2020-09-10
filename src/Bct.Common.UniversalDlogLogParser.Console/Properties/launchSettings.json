@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BCT.Common.LogParsing.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--inputSink DLOG --outputSink JSON    --inputDirectory C:\\Dev\\Tests\\DLOG\\Reveos\\ --outputDirectory C:\\Dev\\Tests\\DLOG\\Processed --readAllFiles --parallelProcessingCount 7 --overWrite"
+    }
+  }
+}
